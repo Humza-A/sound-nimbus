@@ -1,6 +1,8 @@
 # SoundNimbus
 Work in progress
 
+To run the app follow steps below
+
 SoundCloud clone app using NodeJs, ExpressJS, HandlebarsJS
 
 ## Requirements
